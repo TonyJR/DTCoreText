@@ -185,7 +185,7 @@
 	}
 	
 	// default foreground is black
-	return [DTColor blackColor];
+	return nil;
 }
 
 - (DTColor *)backgroundColor
